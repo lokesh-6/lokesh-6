@@ -1,6 +1,6 @@
 <!-- Profile banner GIF or SVG -->
 <p align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" alt="Banner" width="800" height="800"/>
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" alt="Banner" width="1000" height="500"/>
 </p>
 
 <h2 align="center">Hi, I'm Lokesh Kad 👋</h2>
